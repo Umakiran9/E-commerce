@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Final result 
+
+https://ecommerce-with-react.herokuapp.com/
+
 ## Resource 
 
 https://www.sitepoint.com/how-to-create-an-ecommerce-site-with-react/
