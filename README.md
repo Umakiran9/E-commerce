@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Final result 
 
-https://ecommerce-with-react.herokuapp.com/
+https://umakiran-ecommerce-with-react.herokuapp.com/
 
 ## Resource 
 
